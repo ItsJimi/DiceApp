@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dé</string>
+    <string name="description">Veuillez choisir le nombre de faces de votre Dé :</string>
+    <string name="submit">Valider</string>
+    <string name="launch">Relancer le dé</string>
+    <string name="placeholder">Par défaut, la valeur est 6</string>
+    <string name="default_text">\?\?</string>
+</resources>
