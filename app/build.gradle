@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "fr.maiquez.jimi.de"
+        applicationId "fr.maiquez.jimi.diceapp"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1

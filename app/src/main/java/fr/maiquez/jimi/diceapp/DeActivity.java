@@ -1,4 +1,4 @@
-package fr.maiquez.jimi.de;
+package fr.maiquez.jimi.diceapp;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

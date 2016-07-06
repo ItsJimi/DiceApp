@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Dé</string>
-    <string name="description">Veuillez choisir le nombre de faces de votre Dé :</string>
-    <string name="submit">Valider</string>
-    <string name="launch">Relancer le dé</string>
-    <string name="placeholder">Par défaut, la valeur est 6</string>
+    <string name="app_name">DiceApp</string>
+    <string name="description">Please select the number of faces :</string>
+    <string name="launch">Launch</string>
+    <string name="launch_again">Launch again</string>
+    <string name="placeholder">Default value is 6</string>
     <string name="default_text">\?\?</string>
 </resources>

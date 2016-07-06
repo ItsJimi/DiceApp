@@ -1,4 +1,4 @@
-package fr.maiquez.jimi.de;
+package fr.maiquez.jimi.diceapp;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    public final static String STRING_NBR = "fr.maiquez.jimi.de.NBR";
+    public final static String STRING_NBR = "fr.maiquez.jimi.diceapp.NBR";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

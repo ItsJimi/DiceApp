@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="description">Veuillez entrer le nombre de faces :</string>
+    <string name="launch">Lancer</string>
+    <string name="launch_again">Lance à nouveau</string>
+    <string name="placeholder">La valeur par défaut est 6</string>
+    <string name="default_text">\?\?</string>
+</resources>
